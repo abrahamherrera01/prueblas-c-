@@ -1,4 +1,4 @@
-//cuenta regresiva del 100 a el 1// 	
+//cuenta regresiva del 10 a el 1// 	
 #include "iostream"
 
 using namespace std;

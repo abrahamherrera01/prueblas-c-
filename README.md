@@ -1,0 +1,2 @@
+# prueblas-c-
+pequeños ejercicios
